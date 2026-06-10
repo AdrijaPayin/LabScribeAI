@@ -1,7 +1,5 @@
 # 🔬 LabScribe AI — Intelligent Lab Report Assistant
 
-> **Project 4** from Prof. Satyajit Chakrabarti's Engineering AI Projects Series
-
 An AI-powered tool that transforms raw experimental data and observations into fully structured, professional lab reports using the Claude API. Students input their data, and the AI generates polished academic content for every section.
 
 ---
